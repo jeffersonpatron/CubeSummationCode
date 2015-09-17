@@ -1,0 +1,2 @@
+# CubeSummationCode
+Prueba Hackerrank
